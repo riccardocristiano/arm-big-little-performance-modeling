@@ -189,7 +189,7 @@ The processing cores exhibit the highest residence times, while Storage, I/O, an
 
 ### Response Time
 
-![Final response-time results](figures/response_time.png)
+![Final response-time results](figures/response_time.png.png)
 
 *Response-time results for heavy- and low-computation workloads.*
 
